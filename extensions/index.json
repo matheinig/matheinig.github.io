@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "gamiflow",
+      "name": "GamiFlow",
+      "tagline": "Easier game asset creation",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Mathieu Einig",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Import-Export",
+        "Object"
+      ],
+      "archive_url": "./gamiflow-1.0.0.zip",
+      "archive_size": 32128,
+      "archive_hash": "sha256:dc9b1369271f0ab8ad1bdddecf36350dfc0dbff67025a3667c81e48771a93e26"
+    }
+  ]
+}

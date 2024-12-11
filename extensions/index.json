@@ -116,6 +116,30 @@
       "archive_url": "./gamiflow-1.2.1.zip",
       "archive_size": 37371,
       "archive_hash": "sha256:93176b55ac9df1ecd28d18cc13e2305ff50e1506c95ae27484e89529e4fbe726"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "gamiflow",
+      "name": "GamiFlow",
+      "tagline": "Easier game asset creation",
+      "version": "1.2.2",
+      "type": "add-on",
+      "maintainer": "Mathieu Einig",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/matheinig/GamiFlow",
+      "permissions": {
+        "files": "Export FBX files to disk"
+      },
+      "tags": [
+        "Import-Export",
+        "Object"
+      ],
+      "archive_url": "./gamiflow-1.2.2.zip",
+      "archive_size": 38050,
+      "archive_hash": "sha256:55862e1ad98c33a863540a498c500d491c714294d0d5e47d9079b2eaf0f7a47b"
     }
   ]
 }

@@ -7,7 +7,7 @@
       "id": "gamiflow_full",
       "name": "GamiFlow (Full)",
       "tagline": "Easier game asset creation",
-      "version": "1.9.6",
+      "version": "1.9.7",
       "type": "add-on",
       "maintainer": "Mathieu Einig",
       "license": [
@@ -22,9 +22,9 @@
         "Import-Export",
         "Object"
       ],
-      "archive_url": "./gamiflow_full-1.9.6.zip",
-      "archive_size": 168052,
-      "archive_hash": "sha256:2c0fa3a84de30194073298fb35a7a917ad8796799560d8fb1d1fbc6780f1f710"
+      "archive_url": "./gamiflow_full-1.9.7.zip",
+      "archive_size": 168047,
+      "archive_hash": "sha256:8a87363f6f9ab4821adc4e25c6cf6b259687b13d5203365e166d91f43c2ea6ec"
     }
   ]
 }
